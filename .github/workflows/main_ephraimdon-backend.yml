@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'EphraimDon-backend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A30F749797E47EDBE7EF422809AC543 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA444CD388814A559FB33C0A3DD4C8BF }}
